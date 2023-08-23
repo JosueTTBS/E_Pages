@@ -13,6 +13,10 @@ table 50401 Paises
         {
             DataClassification = ToBeClassified;
         }
+        field(3; Comentario; Text[50])
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys
